@@ -1,5 +1,5 @@
 node_modules
 profiles/*
-results/*
+reports/*
 .env
 npm-debug.log
