@@ -1,0 +1,16 @@
+{
+  "delay": "250ms",
+  "execMap": {
+    "js": "node --harmony"
+  },
+  "ext": "js json jsx",
+  "ignore": [
+    ".git",
+    "node_modules/**/node_modules"
+  ],
+  "verbose": true,
+  "watch": [
+    "lib",
+    "server.js"
+  ]
+}
